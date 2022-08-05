@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @waqas-mumtaz
 - 👀 I’m interested in learning about technologies, traveling, cooking and Netflix.
-- 🌱 I’m currently Working with React JS, Next JS and Cypress.
+- 🌱 I’m currently working with React JS, Next JS and Cypress.
 - 💞️ I’m looking to collaborate on any React project.
 - 📫 Reach me out at waqasmumtazkhan@gmail.com
 
